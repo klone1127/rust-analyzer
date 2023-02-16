@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["layout_of_adt_query",""],["layout_of_adt_recover",""],["layout_of_ty",""],["target_data_layout_query",""]]};

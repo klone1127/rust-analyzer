@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["GenericRequirement",""],["LangItem","A representation of all the valid language items in Rust."],["LangItemTarget",""]],"fn":[["lang_attr",""]],"struct":[["LangItems",""]]};

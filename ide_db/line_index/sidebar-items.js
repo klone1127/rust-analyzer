@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["WideEncoding",""]],"struct":[["LineCol","Line/Column information in native, utf8 format."],["LineIndex",""],["WideLineCol","Line/Column information in legacy encodings."]]};

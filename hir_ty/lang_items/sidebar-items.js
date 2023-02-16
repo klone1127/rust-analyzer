@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["is_box",""],["is_unsafe_cell",""]]};
